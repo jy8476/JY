@@ -1,0 +1,12 @@
+# TEAM
+
+    Jennifer -- Web Developer -- 
+
+# THANKS
+
+ Jennifer
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr
